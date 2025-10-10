@@ -95,6 +95,7 @@ body {
   width:100%;
   height:auto;
   float:left;
+  margin:0px;
 }
 .text-container{
   width:65%;
@@ -359,6 +360,7 @@ button:hover {
     }
     .profile {
       float:none;
+      margin:10px;
     }
 
   }
